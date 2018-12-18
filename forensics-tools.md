@@ -30,6 +30,7 @@ Memory forensics
 * [google/rekall - Rekall Memory Forensic Framework](https://github.com/google/rekall)
   * [toolsmith – Hunting In-Memory Adversaries with Rekall and WinPmem](https://holisticinfosec.org/toolsmith/pdf/may2015.pdf)
 * [ufrisk/MemProcFS - The Memory Process File System](https://github.com/ufrisk/MemProcFS)
+* [comaeio/LiveCloudKd - Hyper-V Research is trendy now](https://github.com/comaeio/LiveCloudKd)
 
 Windows
 
